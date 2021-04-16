@@ -65,6 +65,12 @@
       "age": 35,
       "favoriteAnimal": "dogs",
       "id": "10"
+    },
+    {
+      "name": "Kyle",
+      "age": 18,
+      "favoriteAnimal": "Goats",
+      "id": "11"
     }
   ]
 }
